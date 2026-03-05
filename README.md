@@ -1,15 +1,15 @@
-# 🌟 Profolio Site V2🌟  
+# 🌟 Trang web Portfolio V2🌟  
 
-A **simple, clean, and modern** portfolio website created by **We R Developer**. Built with **HTML**, **CSS**, and **JavaScript**, this site is perfect for showcasing your projects, skills, and personal journey. 🎨  
-
----
-
-## 🚀 Features  
-- 📝 **About Section**: Share your story and introduce yourself.  
-- 💼 **Projects Section**: Highlight your best work with descriptions and links.  
-- 🛠️ **Skills Section**: Show off your expertise and capabilities.  
-- 💖 **Support Me Section**: Includes a UPI popup for easy contributions.  
+Một **trang web portfolio đơn giản, sạch sẽ và hiện đại** được tạo bởi **We R Developer**. Được xây dựng với **HTML**, **CSS**, và **JavaScript**, trang web này hoàn hảo để giới thiệu các dự án, kỹ năng và hành trình cá nhân của bạn. 🎨  
 
 ---
 
-# ⚡ SEE DEMO : [CLICK HERE](https://werdeveloper.vercel.app)
+## 🚀 Tính năng  
+- 📝 **Phần Giới thiệu**: Chia sẻ câu chuyện và giới thiệu bản thân.  
+- 💼 **Phần Dự án**: Làm nổi bật công việc tốt nhất với mô tả và liên kết.  
+- 🛠️ **Phần Kỹ năng**: Thể hiện chuyên môn và khả năng của bạn.  
+- 💖 **Phần Hỗ trợ Tôi**: Bao gồm popup UPI để đóng góp dễ dàng.  
+
+---
+
+# ⚡ XEM DEMO : [NHẤN VÀO ĐÂY](https://werdeveloper.vercel.app)
